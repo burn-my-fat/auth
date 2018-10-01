@@ -8,6 +8,7 @@
     "lint": "npx eslint ."
   },
   "dependencies": {
+    "firebase": "^5.5.2",
     "react": "16.4.1",
     "react-native": "0.56.0"
   },
